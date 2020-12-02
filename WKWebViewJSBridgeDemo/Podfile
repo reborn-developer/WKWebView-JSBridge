@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'WKWebViewJSBridgeDemo' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for WKWebViewJSBridgeDemo
+
+  pod 'WKWebViewJavascriptBridge', '~> 1.2.0'
+
+  # HUD
+  pod 'PKHUD'
+  
+  # Autolayout
+  pod 'Driftwood', '~> 5.1.0'
+
+
+end

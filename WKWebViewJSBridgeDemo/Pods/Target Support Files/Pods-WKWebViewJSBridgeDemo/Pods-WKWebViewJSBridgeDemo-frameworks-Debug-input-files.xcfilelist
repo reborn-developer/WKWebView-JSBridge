@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-WKWebViewJSBridgeDemo/Pods-WKWebViewJSBridgeDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Driftwood/Driftwood.framework
+${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework
+${BUILT_PRODUCTS_DIR}/WKWebViewJavascriptBridge/WKWebViewJavascriptBridge.framework
